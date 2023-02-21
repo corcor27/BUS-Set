@@ -26,4 +26,6 @@ MODELS
 For Benchmarking BUS-Set 9 models were used; Mask-RCNN, Deeplab v3+, U-Net, Sk-U-Net, Att-Dense-U-Net, Att-U-Net, Swin-U-Net, Trans-U-Net.
 
 We have provided code for all the models that we impletemented ourselfs which include: Deeplab v3+, U-Net, Sk-U-Net, Att-Dense-U-Net, Att-U-Net. 
-These are avaiable in the 
+These are avaiable in "scrpts_to_run_each_model"
+
+
