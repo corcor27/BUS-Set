@@ -28,4 +28,12 @@ For Benchmarking BUS-Set 9 models were used; Mask-RCNN, Deeplab v3+, U-Net, Sk-U
 We have provided code for all the models that we impletemented ourselfs which include: Deeplab v3+, U-Net, Sk-U-Net, Att-Dense-U-Net, Att-U-Net. 
 These are avaiable in "scrpts_to_run_each_model"
 
+For the remaining models, they were impletement from the following:
+
+Mask-RCNN : https://github.com/matterport/Mask_RCNN
+Swin-U-Net : https://github.com/HuCaoFighting/Swin-Unet
+Trans-U-Net : https://github.com/Beckschen/TransUNet
+
+Swin-U-Net and Trans-U-Net are in pytorch and the remining in tensorflow
+
 
