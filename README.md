@@ -14,5 +14,5 @@ RODTOOK : http://www.onlinemedicalimages.com/index.php/en/81-site-info/73-introd
 Plus BUSIS : http://cvprip.cs.usu.edu/busbench/  but this was not used during the study
 
 
-The OASBUD and BUSI are simple downloads, for rodtook you will have to navigator the website and download the images. 
+The OASBUD and BUSI are simple downloads, for RODTOOK you will have to navigator the website and download the images. 
 Then for UDIAT a lisensing agreement will need to be signed.
