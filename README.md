@@ -36,4 +36,6 @@ Trans-U-Net : https://github.com/Beckschen/TransUNet
 
 Swin-U-Net and Trans-U-Net are in pytorch and the remining in tensorflow
 
-All Pretrained model wieghts are available at request, please email cot12@aber.ac.uk
+All Pretrained model wieghts are available at request, please email cot12@aber.ac.uk (due to file sizes)
+
+But all of our best prediction masks can be found here:https://drive.google.com/file/d/1s9xr1UNmLwd1L8Vx-tX5t9XnDclh5z7c/view?usp=share_link
