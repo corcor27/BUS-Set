@@ -1,6 +1,8 @@
 # Bus-Net
 Hello and welcome to BUS-Set, a collection of several BUS datasets in the form of a benchmark.
 
+## Please email cot13@aber.ac.uk if any help needed. Email had changed since the paper
+
 DATASETS
 
 The following links are the locations of the datasets used within the study:
